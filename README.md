@@ -1,1 +1,1 @@
-# mochila-itens
+# mochila-itens adicionar itens ao inventario
